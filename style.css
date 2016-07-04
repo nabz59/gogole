@@ -36,3 +36,11 @@ img {
     margin-top: 20px;
     border-radius: 1px;
 	}
+input {
+    width: 600px;
+    height: 30px;
+    border: 1px solid #34A2FF;
+    margin: 22px auto;
+    display: block;
+}
+

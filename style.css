@@ -1,0 +1,11 @@
+.container {
+    width: 100%;
+    height: 1000px;
+    position: relative;
+    }
+nav {
+    height: 35px;
+	}
+li {
+    display: inline-block;
+    }

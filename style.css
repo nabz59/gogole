@@ -25,7 +25,7 @@ img {
     display: block;
 }
 #sign {
-  border: 3px solid #006ADA;
+  border: 5px solid #006ADA;
     background-color: #006ADA;
     font-size: 11px;
     font-family: arial;
@@ -35,6 +35,8 @@ img {
     margin-right: 40px;
     margin-top: 20px;
     border-radius: 1px;
+    text-align: center;
+    color: white;
 	}
 input {
     width: 600px;
@@ -42,5 +44,12 @@ input {
     border: 1px solid #34A2FF;
     margin: 22px auto;
     display: block;
+}
+#footer {
+    
+    font-family: verdana;
+    position: absolute;
+    bottom: 0;
+    
 }
 

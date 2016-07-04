@@ -9,3 +9,12 @@ nav {
 li {
     display: inline-block;
     }
+li a {
+    font-family: arial;
+    color: #ABABAB;
+    float: left;
+    padding: 6px;
+    font-size: 14px;
+    font-weight: 600;
+    margin-top: 3px;
+    margin-right: 12px;
